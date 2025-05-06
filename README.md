@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm ARIN DIXIT</h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student | Full Stack Developer | Passionate About Building Useful Tech</h3>
 
 <p align="center">
